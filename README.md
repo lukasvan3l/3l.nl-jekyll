@@ -27,3 +27,9 @@ text
 Image with caption:
 
 {% include image.html file="kruispunt-2.jpeg" caption="Permanente staat van onze keuken..." %}
+
+## Todo
+
+- import from medium
+- import from tumblr
+- link to linkedin, twitter, etc?

@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Kruispunt"
+title:  Kruispunt
 author: lukasvan3l
 image: assets/images/kruispunt-1.jpeg
+tags: [ ehs ]
 ---
+
 Ooit gehoord van EHS? Ik inmiddels wel. En meer dan me lief is ook. Electro Hypersitiviteit. Stralingsgevoeligheid. En ik zit er sinds kort middenin, want mijn vrouw lijdt er aan.
 
 Het komt niet helemaal uit het niets. Hester gebruikt als jaren een stylus om touchscreens te bedienen, omdat ze van echte aanraking het gevoel krijgt een brandblaar op te lopen. En we hebben ook al een hele tijd [een eco-wifi router](https://www.vitalitools.nl/stralingsarme-wifi), eentje die minder sterk zendt, en waar een tijdklok op zit zodat hij ‘s nachts uit staat. Daardoor slaapt ze beter.
