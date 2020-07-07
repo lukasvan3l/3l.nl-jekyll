@@ -70,20 +70,20 @@ setTimeout(function(){
 },500);
 
 // Open/close navigation when clicked .nav-icon
-$(document).ready(function(){
-	$('.nav-icon').click(function(){
-		$('.nav-icon').toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("#menu").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("#blackover-nav").toggleClass('active');
-	});
-	$(".nav-icon").click(function(){
-		$("body").toggleClass('active-side');
-	});
-});
+// $(document).ready(function(){
+// 	$('.nav-icon').click(function(){
+// 		$('.nav-icon').toggleClass('active');
+// 	});
+// 	$(".nav-icon").click(function(){
+// 		$("#menu").toggleClass('active');
+// 	});
+// 	$(".nav-icon").click(function(){
+// 		$("#blackover-nav").toggleClass('active');
+// 	});
+// 	$(".nav-icon").click(function(){
+// 		$("body").toggleClass('active-side');
+// 	});
+// });
 
 // Close navigation when clicked .blackover (Black background)
 $(document).ready(function(){

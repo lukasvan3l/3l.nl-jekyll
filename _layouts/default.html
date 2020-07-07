@@ -43,9 +43,12 @@ ga('send', 'pageview');
 
 <div class="sidebar">    
 </div>   
-<div class="nav-icon">
-    <div class="hamburger-bar"></div>
-</div>
+<a href="/">
+    <img src="/assets/images/home.png" class="nav-icon" />
+    <!-- <div class="nav-icon">
+        <div class="hamburger-bar"></div>
+    </div> -->
+</a>
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
@@ -57,7 +60,7 @@ ga('send', 'pageview');
     </ul>   
 </nav>
 
-{% include search-lunr.html %}
+<!-- {% include search-lunr.html %} -->
 
 
 <!-- End Sidebar Navigation
@@ -70,16 +73,16 @@ ga('send', 'pageview');
     <!-- Site Logo/Name
     ================================================== -->
    
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>  
+    </a>   -->
    
 
     <!-- Site Tag
     ================================================== -->
     {% if page.url == '/' %}
         <p class="sitetag">
-            {{ site.description }}
+            👋 Hiya! Read on!
         </p>
     {% endif %}
 
@@ -114,7 +117,7 @@ ga('send', 'pageview');
                 Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
             <div class="col-md-6 col-sm-12 text-center text-lg-right">    
-                <a target="_blank" href="https://www.wowthemes.net/memoirs-free-jekyll-theme/">Memoirs Jekyll Theme</a> by WowThemes.net
+                Just writing some stuff... about my work at <a href="https://www.q42.nl">Q42</a>, sports and family life :)
             </div>
         </div>
     </div>
@@ -135,9 +138,9 @@ ga('send', 'pageview');
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
 
-{% if page.layout == 'post' %}
+<!-- {% if page.layout == 'post' %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
+{% endif %} -->
 
 </body>
 </html>
