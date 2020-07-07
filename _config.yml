@@ -2,8 +2,7 @@
 name: "3L.nl"
 title: "Luuk's bright, Luuk's orange"
 description: >- # this means to ignore newlines until "baseurl:"
-  👋 Hiya! Welcome to my stories from all parts of life. From work at Q42,
-  family life with my amazing wife and wonderful kids, and personal subjects like sports. Njoy!
+  👋 Hiya! Read on!
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /
@@ -11,7 +10,7 @@ google_analytics: 'UA-63533-3'
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
-permalink: /:title/
+permalink: /:year/:month/:day/:title
 email: lukas@3l.nl
 
 # Authors
