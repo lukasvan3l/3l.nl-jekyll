@@ -3,35 +3,23 @@
 <div class="{% unless page.tags == empty %} related-posts {% endunless %}">  
 
     {% assign sortedTags = page.tags | sort %}
+    {% assign break_outer_loop = false %}
 
-    {% unless sortedTags == empty %}
-    <h2 class="text-center mb-4">More tagged with {{ sortedTags | join: " or " }}</h2>
-    {% endunless %}    
-
-    <!-- Related posts based on tags -->
-    {% assign maxRelatedCounter = 0 %}
-    <div class="blog-grid-container">
-        {% for post in site.posts %}
-            {% if post.url != page.url %}
-            {% for tag in sortedTags %}
-                {% if post.tags contains tag %}
-                    {% include postbox.html %}
-                    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-                    {% if maxRelatedCounter >= maxRelated %}
-                        {% break %}
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
+    {% for post in site.posts %}
+        {% if post.url != page.url %}
+        {% for tag in sortedTags %}
+            {% if post.tags contains tag %}
+                {% include related-posts-inner.html %}
+                {% assign break_outer_loop = true %}
+                {% break %}
             {% endif %}
         {% endfor %}
-    </div>
+        {% endif %}
 
-    <!-- List tags -->  
-    <div class="d-flex justify-content-center align-items-center">
-        {% for tag in sortedTags %}
-        <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tag/{{ tag | replace: " ","-" }}">All posts tagged with {{ tag }}</a>
-        <br />
-        {% endfor %}
-    </div>
-    
+        {% if break_outer_loop %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+
 </div>
