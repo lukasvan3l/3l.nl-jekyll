@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  Kruispunt
-author: lukasvan3l
 image: assets/images/kruispunt-1.jpeg
 tags: [ ehs ]
 ---

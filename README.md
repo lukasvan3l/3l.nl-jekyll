@@ -13,7 +13,6 @@ bundle exec jekyll serve
 ---
 layout: post
 title:  "Inception Movie"
-author: lukasvan3l
 tags: [ ehs, q42, sports, family ]
 image: assets/images/11.jpg
 description: "My review of Inception movie. Actors, directing and more."

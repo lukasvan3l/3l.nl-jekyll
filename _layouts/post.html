@@ -29,8 +29,9 @@ post_class: post-template
 </div>
 
 <!-- Featured Image -->
+{% if page.show_feature_image %}
 {% include featured-image.html %}
-
+{% endif %}
 <!-- Content -->
 {% include article.html %}
 

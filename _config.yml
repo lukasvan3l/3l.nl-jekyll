@@ -20,10 +20,10 @@ twitter:
 
 author:
   twitter: lukasvan3l
-    name: Lukasvan3L
-    display_name: Lukasvan3L
-    gravatar: 27724f0ecd72814d3bcee10336da22b2
-    email: lukas@3l.nl
+  name: Lukasvan3L
+  display_name: Lukasvan3L
+  gravatar: 27724f0ecd72814d3bcee10336da22b2
+  email: lukas@3l.nl
 
 # Plugins
 plugins:
