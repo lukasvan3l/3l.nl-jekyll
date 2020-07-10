@@ -286,7 +286,6 @@ img, img:hover {
     }
     .post-date {
         float:right;
-        margin-top: 10px;
     }
     .img-thumb {
         object-fit:cover;
@@ -316,21 +315,21 @@ img, img:hover {
         }
     }
 
-    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-        .card-text {
-            display:none;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:160px;
-            width:100%;
-            object-position:top;
-        }
-        .card-title {
-            font-size:18px;
-            line-height:1.5;
-        }      
-    }
+    // .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
+    //     .card-text {
+    //         display:none;
+    //     }
+    //     .img-thumb {
+    //         object-fit:cover;
+    //         height:160px;
+    //         width:100%;
+    //         object-position:top;
+    //     }
+    //     .card-title {
+    //         font-size:18px;
+    //         line-height:1.5;
+    //     }      
+    // }
 }
 
 //pagination
