@@ -511,7 +511,6 @@ img, img:hover {
     }
 }
 .related-posts {
-    margin-top:120px;
     h2 .badge {
         font-size: 2rem;
         padding:5px 7px;
@@ -768,4 +767,8 @@ figcaption {
 figure img {
     margin: 0 auto;
     display: block;
+}
+
+h2 {
+    margin-top: 50px;
 }
