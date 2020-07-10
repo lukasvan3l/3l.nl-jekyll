@@ -116,7 +116,7 @@ Een van de geïnterviewden, Per Segerback, is één van de ontwikkelaars van de 
 Een mini-docu van EenVandaag
 [https://eenvandaag.avrotros.nl/item/ziek-door-straling-slachtoffers-pleiten-voor-stralingsvrij-woongebied/](https://eenvandaag.avrotros.nl/item/ziek-door-straling-slachtoffers-pleiten-voor-stralingsvrij-woongebied/)
 
-Nog wat leestips over straling
+Nog wat leestips over straling:
 - [https://stralingsbewust.info/](https://stralingsbewust.info/)
 - [https://stichtingehs.nl/](https://stichtingehs.nl/)
 

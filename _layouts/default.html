@@ -3,19 +3,17 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
-    
+
+<link rel="alternate" type="application/atom+xml" href="{{ site.baseurl }}/feed.xml" />
+
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
-
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
 </head>
 
 {% if jekyll.environment == 'production' %}

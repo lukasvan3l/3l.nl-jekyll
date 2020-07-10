@@ -1,9 +1,9 @@
 # Site
 name: "3L.nl"
 title: "Luuk's bright, Luuk's orange"
-description: "Just writing some stuff..."
+description: "Just writing about stuff that keeps me busy at night..."
 logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
+favicon: 'assets/images/favicon.ico'
 # baseurl: /
 google_analytics: 'UA-63533-3'
 # disqus: 'demowebsite'
@@ -11,6 +11,14 @@ google_analytics: 'UA-63533-3'
 include: ["_pages"]
 permalink: /:year/:month/:day/:title
 email: lukas@3l.nl
+
+# SEO
+google_site_verification: yTonuS2P7BSMbFpx_W9Ci-66jpFdcW_P_8X5wXKlKmU
+twitter:
+  username: lukasvan3l
+
+author:
+  twitter: lukasvan3l
 
 # Authors
 authors:
@@ -25,33 +33,37 @@ authors:
 
 # Plugins
 plugins:
+  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-archives
   - jekyll-figure
     
 # Archives
 jekyll-archives:
   enabled:
-    - categories
+    - year
+    - tags
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    tag: '/tag/:name/'
+    year: '/year/:year/'
     
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-    
+
+# Feed
+feed:
+  tags: true
+
 # Other
 highlighter: none
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
-
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"

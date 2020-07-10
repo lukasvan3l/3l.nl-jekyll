@@ -6,7 +6,11 @@ title: Archive
 <!-- Begin List Posts
 ================================================== -->
 
-<h1>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h1>
+{% if page.title %}
+<h1>Posts tagged with <span>{{ page.title }}</span></h1>
+{% else %}
+<h1>Posts from <span>{{ page.date }}</span></h1>
+{% endif %}
 
 <div class="blog-grid-container">
 
