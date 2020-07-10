@@ -20,17 +20,10 @@ twitter:
 
 author:
   twitter: lukasvan3l
-
-# Authors
-authors:
-  lukasvan3l:
     name: Lukasvan3L
     display_name: Lukasvan3L
     gravatar: 27724f0ecd72814d3bcee10336da22b2
     email: lukas@3l.nl
-    web: https://www.3l.nl
-    twitter: https://twitter.com/lukasvan3l
-    description: "You know, like, the author of this blog...."
 
 # Plugins
 plugins:
