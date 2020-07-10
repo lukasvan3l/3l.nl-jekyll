@@ -1,7 +1,8 @@
 
-<h2 class="text-center mb-4">More tagged with {{ sortedTags | join: " or " }}</h2>
+<h2 class="text-center mb-4">More tagged with {{ sortedTags | join: ", " }}</h2>
 
 <!-- Related posts based on tags -->
+{% assign maxRelated = 3 %}
 {% assign maxRelatedCounter = 0 %}
 {% assign break_inner_loop = false %}
 <div class="blog-grid-container">
