@@ -317,21 +317,21 @@ img, img:hover {
         }
     }
 
-    // .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-    //     .card-text {
-    //         display:none;
-    //     }
-    //     .img-thumb {
-    //         object-fit:cover;
-    //         height:160px;
-    //         width:100%;
-    //         object-position:top;
-    //     }
-    //     .card-title {
-    //         font-size:18px;
-    //         line-height:1.5;
-    //     }      
-    // }
+    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
+        h2 {
+            margin-top: 0;
+        }
+        .img-thumb {
+            object-fit:cover;
+            height:160px;
+            width:100%;
+            object-position:top;
+        }
+        .card-title {
+            font-size:18px;
+            line-height:1.5;
+        }      
+    }
 }
 
 //pagination

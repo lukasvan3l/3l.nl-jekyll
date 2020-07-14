@@ -7,15 +7,19 @@ title: Home
 ================================================== -->
 <div class="blog-grid-container">
     {% for post in paginator.posts %}
-        {% include postbox.html %}
+        {% if forloop.index == 2 or forloop.index == 3 %}
+            {% include postbox.html excerptWordCount=10 %}
+        {% else %}
+            {% include postbox.html %}
+        {% endif %}
     {% endfor %}
 </div>
 
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
 </div>
 
