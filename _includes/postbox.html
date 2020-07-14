@@ -1,5 +1,9 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
+{% assign excerptWordCount = 30 %}
+{% if include.excerptWordCount %}
+    {% assign excerptWordCount = include.excerptWordCount %}
+{% endif %}
 
 <div class="blog-grid-item">
     <div class="card h-100">
@@ -20,7 +24,7 @@
             <h2 class="card-title">
                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </h2>
-            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords: excerptWordCount }}</h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
