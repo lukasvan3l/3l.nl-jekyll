@@ -1,9 +1,6 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
-{% assign excerptWordCount = 30 %}
-{% if include.excerptWordCount %}
-    {% assign excerptWordCount = include.excerptWordCount %}
-{% endif %}
+{% assign excerptWordCount = include.excerptWordCount | default: 30  %}
 
 <div class="blog-grid-item">
     <div class="card h-100">
