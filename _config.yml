@@ -40,8 +40,8 @@ jekyll-archives:
     - tags
   layout: archive
   permalinks:
-    tag: '/tag/:name/'
-    year: '/year/:year/'
+    tag: '/:name/'
+    year: '/:year/'
     
 # Pagination 
 paginate: 6
