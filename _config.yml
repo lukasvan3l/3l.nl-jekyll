@@ -27,20 +27,9 @@ author:
 
 # Plugins
 plugins:
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - year
-    - tags
-  layout: archive
-  permalinks:
-    tag: '/tag/:name/'
-    year: '/year/:year/'
     
 # Pagination 
 paginate: 6
