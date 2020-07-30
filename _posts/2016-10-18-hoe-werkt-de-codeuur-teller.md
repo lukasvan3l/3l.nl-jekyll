@@ -2,7 +2,7 @@
 layout: post
 title: Hoe werkt de CodeUur wereldrecord teller?
 image: assets/images/wereldrecord-1.jpeg
-tags: [ development, kidsthatcode ]
+tags: [ development ]
 ---
 
 Vorige week heeft CodeUur geschiedenis geschreven door 11.386 kinderen tegelijkertijd te leren programmeren. In 464 verschillende klassen in heel Nederland.

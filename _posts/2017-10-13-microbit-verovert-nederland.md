@@ -2,7 +2,7 @@
 layout: post
 title:  Micro:bit verovert Nederland
 image: assets/images/microbit-1.jpeg
-tags: [ kidsthatcode ]
+tags: [ development ]
 ---
 
 Dat magische gevoel als je software iets in de “echte” wereld teweeg brengt. Dat gevoel wil ik overbrengen. En de BBC Micro:bit is daar het perfecte middel voor. Vandaar dat FutureNL vandaag bijna 10.000 Micro:bits aan basisscholen heeft gegeven.

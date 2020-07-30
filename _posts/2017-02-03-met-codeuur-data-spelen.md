@@ -2,7 +2,7 @@
 layout: post
 title: Met CodeUur data spelen
 image: assets/images/graphql-1.png
-tags: [ kidsthatcode, development ]
+tags: [ development ]
 ---
 
 Het CodeUur matching systeem bevat een hoop interessante informatie, over scholen, leerkrachten, gastdocenten en zo meer.

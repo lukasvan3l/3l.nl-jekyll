@@ -2,7 +2,7 @@
 layout: post
 title: Purpose is built in
 image: assets/images/purpose-1.jpeg
-tags: [ q42 ]
+tags: [ development ]
 ---
 
 Daniel Pink states that Purpose, Autonomy and Mastery are what motivates people. At Q42 we believe that to be true. And we’ve been acting upon that for some time. Let me share an insight I recently had about Purpose.
