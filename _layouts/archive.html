@@ -9,9 +9,8 @@ title: Archive
 <div class="article-post">
 <h1><span>{{ page.title }}</span></h1>
 
-{% if page.description %}
-  <p>{{ page.description }}</p>
-{% endif %}
+{{ content }}
+
 </div>
 
 {% assign sortedTags = site.tags | sort %}
