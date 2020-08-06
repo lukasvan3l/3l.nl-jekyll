@@ -7,6 +7,15 @@ Luuk's bright, Luuk's orange
 bundle exec jekyll serve
 ```
 
+## Optimize images
+
+```
+brew update
+brew install imageoptim-cli
+imageoptim --imagealpha '**/*.png'
+imageoptim '**/*.jpg' '**/*.jpeg'
+```
+
 ## Example post
 
 ```md
