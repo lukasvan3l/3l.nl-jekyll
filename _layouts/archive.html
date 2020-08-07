@@ -6,18 +6,32 @@ title: Archive
 <!-- Begin List Posts
 ================================================== -->
 
-{% if page.title %}
-<h1>Posts over <span>{{ page.title }}</span></h1>
-{% else %}
-<h1>Posts uit <span>{{ page.date | date: "%Y" }}</span></h1>
-{% endif %}
+<div class="article-post">
+<h1><span>{{ page.title }}</span></h1>
 
-<div class="blog-grid-container">
-
-{% for post in page.posts %}
-
-{% include postbox.html %}
-
-{% endfor %}
+{{ content }}
 
 </div>
+
+{% assign sortedTags = site.tags | sort %}
+{% for tag in sortedTags %}
+{% if tag[0] == page.tag %}
+<div class="blog-grid-container">
+{% assign count = 0 %}
+{% assign pages_list = tag[1] %}
+{% for post in pages_list %}
+{% if post.title != null %}
+{% include postbox.html %}
+{% assign count = count | plus: 1 %}
+{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+</div>
+{% endif %}
+{% endfor %}
+
+<div class="article-post">
+  Bekijk <a href="/tags">alle tags</a>.
+</div>
+
+{% include subnav.html %}

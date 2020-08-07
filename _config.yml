@@ -27,29 +27,13 @@ author:
 
 # Plugins
 plugins:
-  - jekyll-archives
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
-    
-# Archives
-jekyll-archives:
-  enabled:
-    - year
-    - tags
-  layout: archive
-  permalinks:
-    tag: '/:name/'
-    year: '/:year/'
     
 # Pagination 
 paginate: 6
 paginate_path: /page:num/
-
-# Feed
-feed:
-  tags: true
 
 # Other
 highlighter: rouge
