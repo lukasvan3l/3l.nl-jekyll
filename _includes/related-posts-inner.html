@@ -1,5 +1,10 @@
 
-<h2 class="text-center mb-4">Meer over
+<h2 class="text-center mb-4">
+    {% if page.language == "en" %}
+    More on
+    {% else %}
+    Meer over
+    {% endif %}
     {% for tag in sortedTags %}
         <a class="smoothscroll badge badge-info text-capitalize" href="{{site.baseurl}}/{{ tag }}">{{ tag }}</a>
     {% endfor %}
