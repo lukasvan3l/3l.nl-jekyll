@@ -2,8 +2,7 @@
 layout: post
 title: Hacking accessibility at w00tcamp
 image: assets/images/accessibility-1.png
-tags: [ development ]
-language: en
+tags: [ development, en ]
 ---
 
 Last weekend we had [w00tcamp](https://w00t.camp) at [Q42](https://q42.nl). Our yearly hackathon where we bundle all our technical interests and entrepeneurship to build amazing products, in two days.

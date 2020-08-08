@@ -18,7 +18,7 @@ post_class: post-template
             {% endif %}
         </div>            
         <div>
-        {% if page.language == "en" %}
+        {% if page.tags contains "en" %}
         Written by {{ author.display_name }} on
         {% else %}
         Geschreven door {{ author.display_name }} op
