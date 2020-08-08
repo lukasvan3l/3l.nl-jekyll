@@ -2,7 +2,7 @@
 layout: post
 title: Toerskiën, maar dan met een snowboard
 image: assets/images/splitboard-2.jpeg
-tags: [ sport ]
+tags: [ hobby ]
 ---
 
 Splitboarden noemen ze dat. En ik ga het komend weekend doen in Oostenrijk.

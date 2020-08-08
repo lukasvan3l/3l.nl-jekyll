@@ -2,7 +2,7 @@
 layout: post
 title: Puzzelen met je lichaam
 image: assets/images/puzzelen-1.jpeg
-tags: [ sport ]
+tags: [ hobby ]
 ---
 
 Sinds [Kunststof](http://www.boulderhalkunststof.nl/) open is, de nieuwe boulderhal in Leiden, kom ik daar regelmatig. Ik had al wat ervaring met klimmen, dus toen ik met boulderen begon kon ik al op die basis terugvallen. Inmiddels boulder ik 5C/6A, waar ik best tevreden mee ben. Maar afgelopen weken heb ik toch mijn theorie een beetje bijgespijkerd met een [Basis Techniek cursus](http://www.boulderhalkunststof.nl/cursussen/). En daar deel ik even een paar snippets van.
