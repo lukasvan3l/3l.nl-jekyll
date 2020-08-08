@@ -3,8 +3,7 @@ layout: post
 title: Corona-proof Magic the Gathering
 image: assets/images/mtg-3.jpg
 # show_feature_image: true
-tags: [ development, hobby ]
-language: en
+tags: [ development, hobby, en ]
 ---
 
 I have an idea for a neat little app. The feature would be to take a picture every x seconds. But it has a few very specific usecases. So let me first tell you how I got the idea. Hopefully you'll appreciate my genius a little more then :)

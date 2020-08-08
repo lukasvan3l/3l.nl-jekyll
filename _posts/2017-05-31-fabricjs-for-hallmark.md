@@ -2,8 +2,7 @@
 layout: post
 title: FabricJS + OpentypeJS for Hallmark
 image: assets/images/hallmark-1.png
-tags: [ development ]
-language: en
+tags: [ development, en ]
 ---
 
 Recently we helped Hallmark Netherlands to rebuild their custom card editor into a version that’s designed mobile first. It’s gradually being rolled out, at the time of this writing you can see it in action with [this card](https://nl.hallmark.be/kaarten/verjaardag-vrouw/best-verkocht-v/hallmark/hooray-on-your-birthday-3288693.aspx).
