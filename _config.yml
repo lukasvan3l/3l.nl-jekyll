@@ -5,6 +5,7 @@ description: "Even van me af schrijven hoor..."
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 lang: nl_NL
+url: https://www.3l.nl
 # baseurl: /
 google_analytics: 'UA-63533-3'
 # disqus: 'demowebsite'
