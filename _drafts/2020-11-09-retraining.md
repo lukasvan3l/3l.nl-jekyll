@@ -6,10 +6,30 @@ title: "Retraining!"
 tags: [ ehs ]
 ---
 
-Dit heeft wel erg veel raakvlakken met Hester...
+We zijn al een tijd in zee met een "EHS coach", Carolien. Zij is zelf ook gevoelig voor straling en helpt anderen bij het omgaan met deze aandoening. Zij is nu op het spoor gekomen van een mogelijke therapie om de klachten te laten verminderen. Ze is er zelf al een tijdje mee bezig en ze zegt dat haar klachten zienderogen minder worden. Hier gaat Hester in het nieuwe jaar ook mee beginnen, en ik wil hier een beetje de achterliggende gedachte uit de doeken doen.
 
-https://www.youtube.com/watch?v=KVsR7bdvt3A
+Het gaat om het Dynamic Neural Retraining System, van Annie Hopper. Als je het hele verhaal wilt horen, kijkt deze introductie. Skip anders naar mijn samenvatting eronder ;)
 
+{% include youtube.html id="KVsR7bdvt3A" %}
 
+## In mijn woorden
 
-Hester moet er ook gewoon aan wennen. Ze merkt bij zichzelf nu ook een pavlov reactie. Als ze denkt dat de stroom aan gaat dan voelt ze zich meteen onwel worden. Vandaar dat we regelmatig meetspecialisten over de vloer halen, die objectief kunnen meten of er iets aan de hand is. Ons huis wordt steeds een beetje schoner. Langzaamaan krijgen we wat luxen terug.
+In het verhaal dat zij vertelt zitten veel raakvlakken met Hester haar verhaal. Stralingsgevoeligheid is daar een onderdeel van, maar ook een gevoelige spijsvertering (Hester eet al een jaar geen gluten, geen lactose, alleen gefermenteerde noten, etc...), gevoeligheid voor geuren (we hebben lang gezocht naar een verf waar ze niet dubbel van lag), en nog meer, passen allemaal in deze theorie.
+
+Hopper stelt dat dit een disfunctioneren van het [limbisch systeem](https://nl.wikipedia.org/wiki/Limbisch_systeem) is. Omdat dit een onderdeel van je hersenen is die veel van je lichaam aanstuurt, kan het kloppen dat meerdere onderdelen van je lichaam problemen ervaren. Het limbisch systeem is, door meerdere opeenvolgende triggers, verkeerd afgesteld. Wanneer het kleine hoeveelheden giftige stoffen waarneemt, reageert het alsof dit een bijna fatale dosis is. In de natuur is het handig dat als jij in een levensbedreigende situatie zit, je zintuigen scherper worden. Het lijkt alsof Hester permanent in die staat verkeert.
+
+## Herkenning
+
+Onze Leidse huisarts zijn theorie was dat Hester haar zintuigen te gevoelig staan afgesteld. Een behandeling wist hij niet.
+
+Een bevriend psychiater stelde dat de amygdala (onderdeel van het limbisch systeem) teveel stress hormoon af geeft. Haar advies was een antidepressiva om de amygdala tot rust te brengen. Dit overwegen we al een tijdje, maar de ervaring leert dat als er mogelijke bijwerkingen van een medicijn zijn, Hester ze allemaal voor haar kiezen krijgt. En dat kan bij een antidepressiva best heftig zijn.
+
+Maar, beide theorieen komen overeen met Hopper haar verhaal, dat is heel bemoedigend. En haar aanpak klinkt een stuk minder heftig dan een antidepressiva. De aanpak is namelijk om door middel van herhaling en positieve stimulans je hersenen te herprogrammeren. Meerdere maanden dezelfde oefeningen doen, een uur lang iedere dag. Details weet ik verder nog niet.
+
+## Samen aan de slag
+
+Dit is best intensief, vandaar dat een onderdeel van Hopper haar methode ook inhoudt dat je een "support group" om je heen verzamelt. Andere mensen die hetzelfde programma volgen met wie je ervaringen kan uitwisselen en elkaar een hart onder de riem steken. Door Carolien haar enthousiaste verhaal en breed netwerk is er inmiddels een groepje bij elkaar, en gaan ze in januari starten.
+
+Afgelopen week was een eerste kennismaking, en daar kwam Hester al ontzettend gemotiveerd van terug. Goed om lotgenoten te spreken, een teken dat ze niet de enige is die hier mee worstelt.
+
+We hebben weer een aanknopingspunt, een hoop op een "normale" toekomst :)
