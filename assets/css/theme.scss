@@ -772,3 +772,19 @@ figure img {
 h2 {
     margin-top: 50px;
 }
+
+@media print {
+    #menu,
+    .share,
+    .list-next-page,
+    .sidebar { display:none;}
+    .article-post {
+        width: 100%;
+        max-width: 100%;
+    }
+    .site-content .container {
+        width: 80%;
+        max-width: 80%;
+        padding: 0;
+    }
+}
