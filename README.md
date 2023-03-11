@@ -1,11 +1,16 @@
 # 3l.nl-jekyll
 Luuk's bright, Luuk's orange
 
-## Developing
+## Develop
 
-first install
 ```
 bundle exec jekyll serve
+```
+
+## Deploy
+
+```
+firebase deploy
 ```
 
 ## Optimize images

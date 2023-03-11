@@ -3,7 +3,7 @@ layout: post
 title: Voedselbos De Glind van start
 image: assets/images/voedselbos-1.jpg
 show_feature_image: true
-tags: [ voedselbos ]
+tags: [ hobby ]
 ---
 
 Twee maanden geleden vroeg mijn achterbuurman zich af wat hij met z'n achtertuin van bijna een hectare kon doen. Vroeger landbouwgrond, nu grazen er alleen wat schapen van een boer uit het dorp. Het idee ontstond om er een voedselbos van te maken.
