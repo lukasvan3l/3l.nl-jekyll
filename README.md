@@ -3,6 +3,7 @@ Luuk's bright, Luuk's orange
 
 ## Developing
 
+first install
 ```
 bundle exec jekyll serve
 ```
@@ -10,6 +11,7 @@ bundle exec jekyll serve
 ## Optimize images
 
 ```
+TODO werkt niet op M1 macbook
 brew update
 brew install imageoptim-cli
 imageoptim --imagealpha '**/*.png'
